@@ -36,7 +36,8 @@
       "summary": "Como programador y DevOps fui encargado de alojar proyectos en la infraestructura de amazon creando pipelines y manteniendo servidores tanto fisicos como serverless, desarrolle proyectos complejos y apoye a desarrolladores a conseguir soluciones a sus proyectos",
       "highlights": [
         "Started the company"
-      ]
+      ],
+      "url": null
     },
     {
       "name": "CloudSystem",
@@ -46,7 +47,8 @@
       "summary": "Fui responsable de la gestion y ejecucion de pruebas en los software que se desarrolladaran para sus salidas a produccion, documente y coordine programacion de pares con desarrolladores para buscar la salida de los objectivos",
       "highlights": [
         "Started the company"
-      ]
+      ],
+      "url": null
     }
   ],
   "volunteer": [{
@@ -279,7 +281,8 @@
         "AWS",
         "express.js",
         "react"
-      ]
+      ],
+      "url": null
     },
     {
       "name": "Senderos",
@@ -287,7 +290,18 @@
       "highlights": [
         "AWS",
         "DevOps"
-      ]
+      ],
+      "url": null
+    },
+    {
+      "name": "Ecommerce",
+      "description": "Cree un ecommerce con react tailwind y nestjs",
+      "highlights": [
+        "nestjs",
+        "react"
+      ],
+      "url": null,
+      "github": "https://github.com/CarlosArgelio/store-nest"
     }
   ]
 }
