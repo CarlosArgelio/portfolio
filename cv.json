@@ -239,7 +239,7 @@
       "url": "https://conectandomateriales.com/"
     },
     {
-      "name": "Remax Momentim II - Web Scraping",
+      "name": "Remax Momentum II - Web Scraping",
       "isActive": true,
       "description": "Web Scraping para la empresa de Remax, union de proyectos de web scraping en una infraestructura serverless",
       "highlights": [
@@ -251,7 +251,7 @@
       "url": null
     },
     {
-      "name": "Remax Momentim II - Migracion Django a React",
+      "name": "Remax Momentum II - Migracion Django a React",
       "isActive": true,
       "description": "Se tomo el reto de migrar un proyecto Django a react en un entorno serverless para minimizar los costo",
       "highlights": [
