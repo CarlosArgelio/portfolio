@@ -1,66 +1,49 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Carlos Argelio Palacios",
+    "label": "Backend Developer, inspirado en crear sistemas escalables y sostenibles en entornos productivos",
+    "image": "/me.png",
+    "email": "carlosargelio0104@gmail.com",
+    "phone": "+58 4129867974",
+    "url": "https://github.com/CarlosArgelio",
+    "summary": "Soy una persona aposionada por mi labor, me encanta lo que hago sin duda consegui mi proposito a temprano edad y deseo seguir adelante creando mejores productos de calidad",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "1010",
+      "city": "Caracas",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Venezuela"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "CarlosArgelio",
+        "url": "https://www.linkedin.com/in/palaciosrcarlosa/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "CarlosArgelio",
+        "url": "https://github.com/CarlosArgelio"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "CloudSystem",
+      "position": "Backend Developer & DevOps en AWS",
+      "startDate": "2022-12-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Como programador y DevOps fui encargado de alojar proyectos en la infraestructura de amazon creando pipelines y manteniendo servidores tanto fisicos como serverless, desarrolle proyectos complejos y apoye a desarrolladores a conseguir soluciones a sus proyectos",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "CloudSystem",
+      "position": "Analista QA",
+      "startDate": "2020-05-13",
+      "endDate": "2022-11-01",
+      "summary": "Fui responsable de la gestion y ejecucion de pruebas en los software que se desarrolladaran para sus salidas a produccion, documente y coordine programacion de pares con desarrolladores para buscar la salida de los objectivos",
       "highlights": [
         "Started the company"
       ]
@@ -78,16 +61,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Instituto Universitario de Tecnologia de Administracion Industrial",
+    "url": "http://www.iuta-ext-plc.com/",
+    "area": "Licenciado en informatica",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "2022-11-01",
+    "endDate": "2027-01-01",
+    "score": null
   }],
   "awards": [{
     "title": "Award",
@@ -111,28 +91,28 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": null,
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": null,
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": null,
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
@@ -169,21 +149,56 @@
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git", "CD/CI"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": null,
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Analitico", "Backend"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Python Framework"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "level": "Medio",
+      "keywords": [
+        "Analisis de datos"
+      ]
+    },
+    {
+      "name": "Serverless Framework",
+      "level": "Medio",
+      "keywords": [
+        "infraestructura", "aws"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "medio",
+      "keywords": [
+        "infraestructura"
       ]
     }
   ],
@@ -194,7 +209,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
   "interests": [{
@@ -210,66 +225,69 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "conectando materiales",
+      "isActive": false,
+      "description": "Subasta a la inversa para tener productos de materiales que esten sobrante en una almacen",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "backend",
+        "frontend",
+        "serverless",
+        "react"
       ],
-      "url": "https://mars.codes"
+      "url": "https://conectandomateriales.com/"
     },
     {
-      "name": "AdventJS",
+      "name": "Remax Momentim II - Web Scraping",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Web Scraping para la empresa de Remax, union de proyectos de web scraping en una infraestructura serverless",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "6 seg de respuesta",
+        "serverless",
+        "Python",
+        "Web Scraping"
       ],
-      "url": "https://adventjs.dev"
+      "url": null
     },
     {
-      "name": "Codember",
+      "name": "Remax Momentim II - Migracion Django a React",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Se tomo el reto de migrar un proyecto Django a react en un entorno serverless para minimizar los costo",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Python",
+        "JavaScript",
+        "react"
       ],
-      "url": "https://codember.dev"
+      "url": null
     },
     {
-      "name": "codi.link",
+      "name": "Seruvi - DevOps",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Creacion de infraestructura multidominio de un mismo codigo fuente usando diferentes servicio de DNS y apoyo al equipo de desarrollo en el uso de buenas practicas en el software creado con express.js",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "AWS",
+        "DNS",
+        "CD/CI"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://www.malldelnorte.com.ec/"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Seruvi - FullStack",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Apoye en la integracion de servicios de IA de AWS en el proyecto para el uso interno",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+        "IA",
+        "AWS",
+        "express.js",
+        "react"
+      ]
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Senderos",
+      "description": "Trabaje para GUX en su proyecto Senderos formando parte del equipo de Cloud System donde fui encargado de la optimizacion de la infraestructura de AWS para reducir costos, en este proceso realizamos varias actividades como migrar codigo Frontend dentro de EC2 a ecosistema serverless, apoyo en la creacion de un firewall para destruir el acceso a un atacante y migracion de las instancias del backend a otro region",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+        "AWS",
+        "DevOps"
+      ]
     }
   ]
 }
