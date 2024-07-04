@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Carlos Argelio Palacios",
-    "label": "Backend Developer, inspirado en crear sistemas escalables y sostenibles en entornos productivos",
+    "label": "Backend Developer, inspirado en crear sistemas escalables y sostenibles en entornos productivos.",
     "image": "/portfolio/me.webp",
     "email": "carlosargelio0104@gmail.com",
     "phone": "+58 4129867974",
     "url": "https://github.com/CarlosArgelio",
-    "summary": "Soy una persona aposionada por mi labor, me encanta lo que hago sin duda consegui mi proposito a temprano edad y deseo seguir adelante creando mejores productos de calidad",
+    "summary": "Soy una persona apasionada por mi labor, me encanta lo que hago. Sin duda, conseguí mi propósito a temprana edad y deseo seguir adelante creando mejores productos de calidad.",
     "location": {
       "address": "",
       "postalCode": "1010",
       "city": "Caracas",
-      "countryCode": "ES",
+      "countryCode": "VE",
       "region": "Venezuela"
     },
     "profiles": [
@@ -33,7 +33,7 @@
       "position": "Backend Developer & DevOps en AWS",
       "startDate": "2022-12-01",
       "endDate": null,
-      "summary": "Como programador y DevOps fui encargado de alojar proyectos en la infraestructura de amazon creando pipelines y manteniendo servidores tanto fisicos como serverless, desarrolle proyectos complejos y apoye a desarrolladores a conseguir soluciones a sus proyectos",
+      "summary": "Como programador y DevOps, fui encargado de alojar proyectos en la infraestructura de Amazon, creando pipelines y manteniendo servidores tanto físicos como serverless. Desarrollé proyectos complejos y apoyé a desarrolladores a conseguir soluciones a sus proyectos.",
       "highlights": [
         "Started the company"
       ],
@@ -44,7 +44,7 @@
       "position": "Analista QA",
       "startDate": "2020-05-13",
       "endDate": "2022-11-01",
-      "summary": "Fui responsable de la gestion y ejecucion de pruebas en los software que se desarrolladaran para sus salidas a produccion, documente y coordine programacion de pares con desarrolladores para buscar la salida de los objectivos",
+      "summary": "Fui responsable de la gestión y ejecución de pruebas en los software que se desarrollaran para sus salidas a producción. Documenté y coordiné programación de pares con desarrolladores para buscar la salida de los objetivos.",
       "highlights": [
         "Started the company"
       ],
@@ -63,9 +63,9 @@
     ]
   }],
   "education": [{
-    "institution": "Instituto Universitario de Tecnologia de Administracion Industrial",
+    "institution": "Instituto Universitario de Tecnología de Administración Industrial",
     "url": "http://www.iuta-ext-plc.com/",
-    "area": "Licenciado en informatica",
+    "area": "Licenciado en Informática",
     "studyType": "Bachelor",
     "startDate": "2022-11-01",
     "endDate": "2027-01-01",
@@ -165,7 +165,7 @@
       "name": "Python",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Analitico", "Backend"
+        "Desarrollo Analítico", "Backend"
       ]
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "name": "Django",
-      "level": "Basico",
+      "level": "Básico",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend"
       ]
@@ -186,21 +186,21 @@
       "name": "Pandas",
       "level": "Medio",
       "keywords": [
-        "Analisis de datos"
+        "Análisis de Datos"
       ]
     },
     {
       "name": "Serverless Framework",
       "level": "Medio",
       "keywords": [
-        "infraestructura", "aws"
+        "Infraestructura", "AWS"
       ]
     },
     {
       "name": "AWS",
-      "level": "medio",
+      "level": "Medio",
       "keywords": [
-        "infraestructura"
+        "Infraestructura"
       ]
     }
   ],
@@ -227,44 +227,44 @@
   }],
   "projects": [
     {
-      "name": "conectando materiales",
+      "name": "Conectando Materiales",
       "isActive": false,
-      "description": "Subasta a la inversa para tener productos de materiales que esten sobrante en una almacen",
+      "description": "Subasta a la inversa para tener productos de materiales que estén sobrantes en un almacén.",
       "highlights": [
-        "backend",
-        "frontend",
-        "serverless",
-        "react"
+        "Backend",
+        "Frontend",
+        "Serverless",
+        "React"
       ],
       "url": "https://conectandomateriales.com/"
     },
     {
       "name": "Remax Momentum II - Web Scraping",
       "isActive": true,
-      "description": "Web Scraping para la empresa de Remax, union de proyectos de web scraping en una infraestructura serverless",
+      "description": "Web Scraping para la empresa Remax, unión de proyectos de web scraping en una infraestructura serverless.",
       "highlights": [
         "6 seg de respuesta",
-        "serverless",
+        "Serverless",
         "Python",
         "Web Scraping"
       ],
       "url": null
     },
     {
-      "name": "Remax Momentum II - Migracion Django a React",
+      "name": "Remax Momentum II - Migración de Django a React",
       "isActive": true,
-      "description": "Se tomo el reto de migrar un proyecto Django a react en un entorno serverless para minimizar los costo",
+      "description": "Se tomó el reto de migrar un proyecto Django a React en un entorno serverless para minimizar los costos.",
       "highlights": [
         "Python",
         "JavaScript",
-        "react"
+        "React"
       ],
       "url": null
     },
     {
       "name": "Seruvi - DevOps",
       "isActive": true,
-      "description": "Creacion de infraestructura multidominio de un mismo codigo fuente usando diferentes servicio de DNS y apoyo al equipo de desarrollo en el uso de buenas practicas en el software creado con express.js",
+      "description": "Creación de infraestructura multidominio de un mismo código fuente usando diferentes servicios de DNS y apoyo al equipo de desarrollo en el uso de buenas prácticas en el software creado con Express.js.",
       "highlights": [
         "AWS",
         "DNS",
@@ -275,12 +275,12 @@
     {
       "name": "Seruvi - FullStack",
       "isActive": true,
-      "description": "Apoye en la integracion de servicios de IA de AWS en el proyecto para el uso interno",
+      "description": "Apoyé en la integración de servicios de IA de AWS en el proyecto para uso interno.",
       "highlights": [
         "IA",
         "AWS",
-        "express.js",
-        "react"
+        "Express.js",
+        "React"
       ],
       "url": null
     },
