@@ -227,6 +227,20 @@
   }],
   "projects": [
     {
+      "name": "Hackathon - Guacamaya Airlines",
+      "isActive": false,
+      "description": "Landing Page con react de agencia de viaje conectado a un backend realizado en express",
+      "highlights": [
+        "Backend",
+        "Frontend",
+        "Express.js",
+        "React",
+        "AWS"
+      ],
+      "url": "https://guacamaya-airlines.com/",
+      "github": "https://github.com/CarlosArgelio/guacamaya-airlines"
+    },
+    {
       "name": "Conectando Materiales",
       "isActive": false,
       "description": "Subasta a la inversa para tener productos de materiales que estén sobrantes en un almacén.",
