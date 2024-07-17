@@ -241,6 +241,23 @@
       "github": "https://github.com/CarlosArgelio/guacamaya-airlines"
     },
     {
+      "name": "Hackathon - Market AI",
+      "isActive": false,
+      "description": "SaaS para creacion de contenido de marketing usando modelos de IA",
+      "highlights": [
+        "Backend",
+        "Frontend",
+        "Nest.js",
+        "Next.js",
+        "Render",
+        "IA",
+        "SDK VERCEL IA",
+        "DevOps"
+      ],
+      "url": "",
+      "github": "https://github.com/hackathon-vercel/marketing-ai"
+    },
+    {
       "name": "Conectando Materiales",
       "isActive": false,
       "description": "Subasta a la inversa para tener productos de materiales que estén sobrantes en un almacén.",
@@ -316,6 +333,19 @@
       ],
       "url": null,
       "github": "https://github.com/CarlosArgelio/store-nest"
+    },
+    {
+      "name": "Django Coffe Shop",
+      "isActive": true,
+      "description": "Tienda de cafe, proyecto de prueba del uso de Django y Django Rest Framework",
+      "highlights": [
+        "Django",
+        "HTML",
+        "CSS",
+        "Tailwind"
+      ],
+      "url": "https://coffee-shop-i6hb.onrender.com",
+      "github": "https://github.com/CarlosArgelio/coffee_shop"
     }
   ]
 }
