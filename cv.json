@@ -227,37 +227,6 @@
   }],
   "projects": [
     {
-      "name": "Hackathon - Guacamaya Airlines",
-      "isActive": false,
-      "description": "Landing Page con react de agencia de viaje conectado a un backend realizado en express",
-      "highlights": [
-        "Backend",
-        "Frontend",
-        "Express.js",
-        "React",
-        "AWS"
-      ],
-      "url": "https://guacamaya-airlines.com/",
-      "github": "https://github.com/CarlosArgelio/guacamaya-airlines"
-    },
-    {
-      "name": "Hackathon - Market AI",
-      "isActive": false,
-      "description": "SaaS para creacion de contenido de marketing usando modelos de IA",
-      "highlights": [
-        "Backend",
-        "Frontend",
-        "Nest.js",
-        "Next.js",
-        "Render",
-        "IA",
-        "SDK VERCEL IA",
-        "DevOps"
-      ],
-      "url": "",
-      "github": "https://github.com/hackathon-vercel/marketing-ai"
-    },
-    {
       "name": "Conectando Materiales",
       "isActive": false,
       "description": "Subasta a la inversa para tener productos de materiales que estén sobrantes en un almacén.",
@@ -317,12 +286,43 @@
     },
     {
       "name": "Senderos",
-      "description": "Trabaje para GUX en su proyecto Senderos formando parte del equipo de Cloud System donde fui encargado de la optimizacion de la infraestructura de AWS para reducir costos, en este proceso realizamos varias actividades como migrar codigo Frontend dentro de EC2 a ecosistema serverless, apoyo en la creacion de un firewall para destruir el acceso a un atacante y migracion de las instancias del backend a otro region",
+      "description": "Mantenimiento y migracion de instancias de AWS, actualizacion de codigo y soporte en pipelines de despliegue",
       "highlights": [
         "AWS",
         "DevOps"
       ],
       "url": null
+    },
+    {
+      "name": "Guacamaya Airlines",
+      "isActive": false,
+      "description": "Landing Page con react de agencia de viaje conectado a un backend realizado en express",
+      "highlights": [
+        "Backend",
+        "Frontend",
+        "Express.js",
+        "React",
+        "AWS"
+      ],
+      "url": "https://guacamaya-airlines.com/",
+      "github": "https://github.com/CarlosArgelio/guacamaya-airlines"
+    },
+    {
+      "name": "Market AI",
+      "isActive": false,
+      "description": "SaaS para creacion de contenido de marketing usando modelos de IA",
+      "highlights": [
+        "Backend",
+        "Frontend",
+        "Nest.js",
+        "Next.js",
+        "Render",
+        "IA",
+        "SDK VERCEL IA",
+        "DevOps"
+      ],
+      "url": "https://frontend-market-ai.onrender.com/",
+      "github": "https://github.com/hackathon-vercel/marketing-ai"
     },
     {
       "name": "Ecommerce",
